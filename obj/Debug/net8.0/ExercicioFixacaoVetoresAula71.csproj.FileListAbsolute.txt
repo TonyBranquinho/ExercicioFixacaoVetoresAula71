@@ -1,0 +1,14 @@
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoVetoresAula71\ExercicioFixacaoVetoresAula71\bin\Debug\net8.0\ExercicioFixacaoVetoresAula71.exe
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoVetoresAula71\ExercicioFixacaoVetoresAula71\bin\Debug\net8.0\ExercicioFixacaoVetoresAula71.deps.json
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoVetoresAula71\ExercicioFixacaoVetoresAula71\bin\Debug\net8.0\ExercicioFixacaoVetoresAula71.runtimeconfig.json
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoVetoresAula71\ExercicioFixacaoVetoresAula71\bin\Debug\net8.0\ExercicioFixacaoVetoresAula71.dll
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoVetoresAula71\ExercicioFixacaoVetoresAula71\bin\Debug\net8.0\ExercicioFixacaoVetoresAula71.pdb
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoVetoresAula71\ExercicioFixacaoVetoresAula71\obj\Debug\net8.0\ExercicioFixacaoVetoresAula71.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoVetoresAula71\ExercicioFixacaoVetoresAula71\obj\Debug\net8.0\ExercicioFixacaoVetoresAula71.AssemblyInfoInputs.cache
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoVetoresAula71\ExercicioFixacaoVetoresAula71\obj\Debug\net8.0\ExercicioFixacaoVetoresAula71.AssemblyInfo.cs
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoVetoresAula71\ExercicioFixacaoVetoresAula71\obj\Debug\net8.0\ExercicioFixacaoVetoresAula71.csproj.CoreCompileInputs.cache
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoVetoresAula71\ExercicioFixacaoVetoresAula71\obj\Debug\net8.0\ExercicioFixacaoVetoresAula71.dll
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoVetoresAula71\ExercicioFixacaoVetoresAula71\obj\Debug\net8.0\refint\ExercicioFixacaoVetoresAula71.dll
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoVetoresAula71\ExercicioFixacaoVetoresAula71\obj\Debug\net8.0\ExercicioFixacaoVetoresAula71.pdb
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoVetoresAula71\ExercicioFixacaoVetoresAula71\obj\Debug\net8.0\ExercicioFixacaoVetoresAula71.genruntimeconfig.cache
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoVetoresAula71\ExercicioFixacaoVetoresAula71\obj\Debug\net8.0\ref\ExercicioFixacaoVetoresAula71.dll
